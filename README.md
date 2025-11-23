@@ -17,8 +17,6 @@ A deep dive into creating a publication-quality sports analytics visualisation.
 #### [Tidying Catapult 10Hz Export Data](https://mitchhenderson.dev/posts/2020-04-05_Tidy-Catapult-10Hz/)
 Efficient data transformation workflows for player tracking data - turning messy, multi-file exports into analysis-ready datasets.
 
-### 📫 Get in Touch
-
 [![Website](https://img.shields.io/badge/Website-mitchhenderson.dev-blue?style=flat-square)](https://mitchhenderson.dev)
 [![Bluesky](https://img.shields.io/badge/Bluesky-@mitchhenderson-00A8E8?style=flat-square&logo=bluesky)](https://bsky.app/profile/mitchhenderson.bsky.social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
