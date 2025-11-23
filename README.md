@@ -2,7 +2,7 @@
 
 ## Sport 🏅 | Science 👨‍🔬 | Data 💻
 
-I'm a senior data scientist at NSW Health. I also have a background in sports science (PhD) and 7 years applied experience in professional and Olympic sport. I like solving complex problems using data science and statistics.
+I'm a senior data scientist at NSW Health. I also have a background in sports science (PhD) and 7 years applied experience in professional and Olympic sport.
 
 ### 📊 Featured Work
 
